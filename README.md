@@ -66,7 +66,7 @@ Clone the repository:
 
 Bash
 
-git clone https://github.com/NyxftBeru/Sign_recognition_V4.git
+git clone https://github.com/peggyftningbao/Sign_recognition_V4.git
 cd Sign_recognition_V4
 Set up the Frontend Service:
 
